@@ -1,3 +1,4 @@
+## About Me
 I’m an MSIS graduate from Iowa State University who enjoys building reliable, scalable data systems. My work focuses on Databricks Lakehouses and serverless data pipelines on Google Cloud, where I’ve helped process tens of millions of records and support large-scale revenue reporting.<br><br>I care a lot about clean design, efficiency, and cost-aware engineering. Recently, I migrated a complex platform from Kubernetes to a serverless Cloud Run setup, cutting operational overhead almost entirely.<br><br>like turning messy, unreliable data into trusted, well-structured datasets that people can actually use—for analytics, AI, and better decision-making.
 
 
