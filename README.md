@@ -1,8 +1,8 @@
-## About Me
+## About Me :
 I’m an MSIS graduate from Iowa State University who enjoys building reliable, scalable data systems. My work focuses on Databricks Lakehouses and serverless data pipelines on Google Cloud, where I’ve helped process tens of millions of records and support large-scale revenue reporting.<br><br>I care a lot about clean design, efficiency, and cost-aware engineering. Recently, I migrated a complex platform from Kubernetes to a serverless Cloud Run setup, cutting operational overhead almost entirely.<br><br>like turning messy, unreliable data into trusted, well-structured datasets that people can actually use—for analytics, AI, and better decision-making.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayakrishnakaranam10) 
 [![Website](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://udayakrishna.netlify.app)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.ukrishn10@gmail.com) 
